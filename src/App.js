@@ -1,14 +1,13 @@
 import './App.css';
-import Focus from './components/Focus';
-
-
+import UseeffectClock from './components/UseeffectClock';
 
 function App() {
  
   return (
    <div>
     
-    <Focus/>
+    <UseeffectClock/>
+    
     
    </div>
   
