@@ -1,0 +1,17 @@
+.btn {
+  margin-left: 300px;
+  margin-top: 100px;
+}
+.btn button {
+  background: rgb(21, 20, 33);
+  padding: 13px 26px;
+  color: aliceblue;
+  font-family: opens, sans sarif;
+  font-size: 15px;
+  border-radius: 20px;
+  cursor: pointer;
+  transition: 0.8s;
+}
+.btn button:hover {
+  background: rgb(7, 139, 195);
+}

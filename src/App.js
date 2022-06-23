@@ -1,12 +1,14 @@
 import './App.css';
-import UseeffectClock from './components/UseeffectClock';
+import Button from './components/button/Button';
+import Button1 from './components/button/Button1';
 
 function App() {
  
   return (
    <div>
     
-    <UseeffectClock/>
+    <Button/>
+    <Button1/>
     
     
    </div>
