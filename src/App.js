@@ -1,20 +1,10 @@
-import './App.css';
-import Button from './components/button/Button';
-import Button1 from './components/button/Button1';
+import Form from "./components/Form"
 
-function App() {
- 
+export default function App() {
   return (
-   <div>
-    
-    <Button/>
-    <Button1/>
-    
-    
-   </div>
-  
+    <div>
+      <Form/>
+    </div>
   )
+    
 }
-   
-
-export default App;

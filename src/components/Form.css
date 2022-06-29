@@ -1,0 +1,45 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-image: url(/img/makrosa.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.form {
+  margin-top: 150px;
+  margin-left: 320px;
+}
+.form form {
+  padding: 40px 30px;
+}
+.form label {
+  font-size: 20px;
+  font-weight: 500;
+  font-family: opens, sans-sarif;
+  color: rgb(255, 255, 255);
+  margin-right: 20px;
+}
+.form input {
+  padding: 14px 80px;
+  margin-bottom: 20px;
+  background: rgb(7, 15, 14);
+  cursor: pointer;
+  color: white;
+  font-family: 15 px;
+  border-radius: 10px;
+}
+#gmail {
+  margin-right: 60px;
+}
+#password {
+  margin-right: 27px;
+  color: rgb(255, 250, 250);
+}
+#submit {
+  background: rgb(25, 25, 5);
+  transition: 1s;
+  margin-left: 100px;
+}
+#submit:hover {
+  background: rgb(7, 15, 14);
+}
