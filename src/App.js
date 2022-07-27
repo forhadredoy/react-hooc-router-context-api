@@ -1,9 +1,10 @@
-import Form from "./components/Form"
+import Useeffect2 from "./components/Useeffect2";
 
 export default function App() {
   return (
     <div>
-      <Form/>
+      <Useeffect2/>
+    
     </div>
   )
     
